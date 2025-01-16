@@ -2,3 +2,9 @@ clone/pull
 import
 add&commit
 push
+
+git clone url
+git status
+git add -A
+git commit -m "message"
+git push -u origin main
